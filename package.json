@@ -1,5 +1,5 @@
 {
-  "name": "@uppy/dashboard",
+  "name": "uppy-dashboard",
   "description": "Universal UI plugin for Uppy.",
   "version": "0.30.5",
   "license": "MIT",
